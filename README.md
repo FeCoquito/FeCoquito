@@ -9,7 +9,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
         <img 
             alt="My Linkedin" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Follow me&logo=id-badge&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/linkedin//UCo-gJ8RnTn5akHqHvO55DVA?color=3a84ce&label=Follow me&logo=id-badge&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a> 
     <a href="https://github.com/FeCoquito?tab=repositories&sort=stargazers">
@@ -36,40 +36,40 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     align="left" 
     alt="Python" 
     title="Python"
-    width="20px" 
-    style="padding-right: 20px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
     alt="Arduino" 
     title="Arduino"
-    width="20px" 
-    style="padding-right: 20px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 />
 <img 
     align="left" 
     alt="Tex" 
     title="Tex" 
-    width="20px" 
-    style="padding-right: 20px;" 
+    width="10px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"
 /> 
 <img 
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="20px" 
-    style="padding-right: 20px;" 
+    width="10px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="GitLab" 
     title="GitLab"
-    width="20px" 
-    style="padding-right: 20px;" 
+    width="10px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />  
 <br/> 

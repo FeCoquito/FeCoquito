@@ -71,6 +71,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />  
+
 <br/> 
 <br/>
 
@@ -89,7 +90,6 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeCoquito&theme=tokyonight&layout=compact&langs_count=6" 
   />
 

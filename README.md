@@ -52,24 +52,24 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     align="left" 
     alt="Tex" 
     title="Tex" 
-    width="10px" 
-    style="padding-right: 30px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"
 /> 
 <img 
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="10px" 
-    style="padding-right: 30px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="GitLab" 
     title="GitLab"
-    width="10px" 
-    style="padding-right: 30px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />  
 <br/> 

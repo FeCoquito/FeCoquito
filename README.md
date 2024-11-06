@@ -91,7 +91,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeCoquito&theme=tokyonight&layout=compact&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeCoquito&theme=tokyonight&layout=compact&langs_count=6" 
   />
 
 </p>

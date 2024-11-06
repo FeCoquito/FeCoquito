@@ -46,7 +46,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     title="GitLab"
     width="30px" 
     style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />         
 <img 
     align="left" 
@@ -62,7 +62,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 />
 <img     
     align="left" 
@@ -70,7 +70,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     title="LaTex"
     width="30px" 
     style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
 />
 
 <br/>

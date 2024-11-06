@@ -16,14 +16,14 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
         <img 
             alt="Stars" 
             title="Total Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FeCoquito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/FeCoquito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/FeCoquito?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FeCoquito?color=c3352b&labelColor=922820&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/FeCoquito?color=c3352b&labelColor=922820&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>

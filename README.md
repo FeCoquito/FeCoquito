@@ -9,8 +9,9 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
         <img 
             alt="My Linkedin" 
             title="Follow me" 
-            src="https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=for-the-badge&logo=linkedin" />
-    </a> 
+            src="https://img.shields.io/badge/LinkedIn-Follow%20Me-1DA1F2?style=for-the-badge&logo=linkedin&labelColor=0A66C2"
+        />
+    </a>
     <a href="https://github.com/FeCoquito?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 

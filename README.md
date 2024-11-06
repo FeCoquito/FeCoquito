@@ -37,7 +37,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -45,7 +45,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     alt="Arduino" 
     title="Arduino"
     width="30px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 />
 <img 
@@ -53,7 +53,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     alt="LaTex" 
     title="LaTex" 
     width="30px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
 /> 
 <img 

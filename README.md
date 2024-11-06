@@ -2,10 +2,10 @@
 
 **`Mechanical Engineer`**
 
-I am a Mechanical Engineering student at Centro Universitário FEI, having started my course in 2020. My specialization is focused on development and research, particularly in the field of robotics. I possess advanced skills in various CAD software such as Siemens NX and Autodesk Inventor. Additionally, I have extensive experience in programming with Python, Matlab/Simulink, VBA, and Microsoft Office. More information in my Likedin "[Felipe Coquito](www.linkedin.com/in/felipe-coquito)"
+I am a Mechanical Engineering student at Centro Universitário FEI, having started my course in 2020. My specialization is focused on development and research, particularly in the field of robotics. I possess advanced skills in various CAD software such as Siemens NX and Autodesk Inventor. Additionally, I have extensive experience in programming with Python, Matlab/Simulink, VBA, and Microsoft Office. More information in my Likedin "[Felipe Coquito](https://www.linkedin.com/in/felipe-coquito)"
 
 <p align="left">
-    <a href="www.linkedin.com/in/felipe-coquito">
+    <a href="https://www.linkedin.com/in/felipe-coquito">
         <img 
             alt="My Linkedin" 
             title="Follow me" 
@@ -64,16 +64,16 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 />
-<img     
+<img 
     align="left" 
     alt="LaTex" 
-    title="LaTex"
+    title="LaTex" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+/> 
 
-<br/>
+<br/> 
 <br/>
 
 ### 📊 Statistics

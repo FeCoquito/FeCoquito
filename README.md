@@ -30,7 +30,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -76,7 +76,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 

@@ -9,7 +9,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
         <img 
             alt="My Linkedin" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=id-badge&label=follow me"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=0a66c2c&style=for-the-badge&labelColor=3a84ce&logo=id-badge&label=follow me"
         />
     </a> 
     <a href="https://github.com/FeCoquito?tab=repositories&sort=stargazers">
@@ -23,7 +23,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
         <img 
             alt="Followers" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FeCoquito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/FeCoquito?color=c3352b&labelColor=922820&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>

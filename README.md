@@ -36,31 +36,31 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 30px;" 
+    width="20px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
     alt="Arduino" 
     title="Arduino"
-    width="30px" 
-    style="padding-right: 30px;" 
+    width="20px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="LaTex" 
-    title="LaTex" 
-    width="30px" 
-    style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+    alt="Tex" 
+    title="Tex" 
+    width="20px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"
 /> 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
+    alt="GitHub" 
+    title="GitHub"
+    width="20px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -68,7 +68,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
     align="left" 
     alt="GitLab" 
     title="GitLab"
-    width="30px" 
+    width="20px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />  

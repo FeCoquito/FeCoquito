@@ -19,7 +19,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
             src="https://custom-icon-badges.demolab.com/github/stars/FeCoquito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/FeCoquito?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me" 

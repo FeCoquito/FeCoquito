@@ -32,7 +32,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
 
 ### 🤖 Languages and Technologies
 
-       <img 
+<img 
     align="left" 
     alt="Python" 
     title="Python"

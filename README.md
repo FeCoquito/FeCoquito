@@ -9,7 +9,7 @@ I am a Mechanical Engineering student at Centro Universitário FEI, having start
         <img 
             alt="My Linkedin" 
             title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=75A8DC&style=for-the-badge&labelColor=3a84ce&logo=id-badge&label=follow me"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=4d90d2&style=for-the-badge&labelColor=3a84ce&logo=id-badge&label=follow me"
         />
     </a> 
     <a href="https://github.com/FeCoquito?tab=repositories&sort=stargazers">
